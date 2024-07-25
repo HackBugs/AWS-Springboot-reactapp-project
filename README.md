@@ -254,7 +254,7 @@ const apiBaseUrl = 'http://localhost:8080';
 ```
 -------------------------------------------------------
 
-Node.js, JDK, Maven, aur Gradle development tools hain jo aapke application ka code likhne, build karne, aur locally run karne ke liye use hote hain. DevOps ka role ise ek step aage le jaata hai jahan automation, deployment, aur monitoring involved hoti hai. Main aapko explain karta hoon DevOps ka role aur unki tools ke bare mein:
+## Node.js, JDK, Maven, aur Gradle development tools hain jo aapke application ka code likhne, build karne, aur locally run karne ke liye use hote hain. DevOps ka role ise ek step aage le jaata hai jahan automation, deployment, aur monitoring involved hoti hai. Main aapko explain karta hoon DevOps ka role aur unki tools ke bare mein:
 
 ### DevOps Role in Application Lifecycle:
 
@@ -311,7 +311,7 @@ Node.js, JDK, Maven, aur Gradle development tools hain jo aapke application ka c
 - **Development Tools (Node.js, JDK, Maven, Gradle)**: Code likhne aur build karne ke liye.
 - **DevOps Tools (Git, Jenkins, Docker, Terraform, Ansible, Prometheus, Grafana, Nginx)**: Automation, deployment, monitoring, aur infrastructure management ke liye.
 
-DevOps ka main goal hai ki development aur operations teams ke beech collaboration aur communication improve ho, processes automate ho, aur application reliable aur fast deliver ho end-users tak.
+## DevOps ka main goal hai ki development aur operations teams ke beech collaboration aur communication improve ho, processes automate ho, aur application reliable aur fast deliver ho end-users tak.
 -----------------------------------------------------------------------------------
 
 AWS pe React aur Spring Boot project ko deploy karne ke liye hum poora DevOps roadmap follow karenge. Ye steps aapko shuru se leke last tak har cheez setup karne me help karenge. Aapko sab kuch Ubuntu (EC2 instance) pe karna hoga.
