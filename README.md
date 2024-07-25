@@ -75,9 +75,9 @@
 - networking
 - SSH - Secure shell
 
-- install packages on linux distro ----
- Debain based
---------------
+- install packages on linux distro
+- Debain based
+----------------
 ```sh
 This all use apt and apt-get
  Ubuntu
