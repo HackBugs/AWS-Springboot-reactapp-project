@@ -312,7 +312,6 @@ const apiBaseUrl = 'http://localhost:8080';
 - **DevOps Tools (Git, Jenkins, Docker, Terraform, Ansible, Prometheus, Grafana, Nginx)**: Automation, deployment, monitoring, aur infrastructure management ke liye.
 
 ## DevOps ka main goal hai ki development aur operations teams ke beech collaboration aur communication improve ho, processes automate ho, aur application reliable aur fast deliver ho end-users tak.
------------------------------------------------------------------------------------
 
 AWS pe React aur Spring Boot project ko deploy karne ke liye hum poora DevOps roadmap follow karenge. Ye steps aapko shuru se leke last tak har cheez setup karne me help karenge. Aapko sab kuch Ubuntu (EC2 instance) pe karna hoga.
 
