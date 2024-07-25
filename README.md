@@ -42,9 +42,9 @@
 - Traditional WATERFALL Meathod
 - --------------------------------
 - Requirements
-- 	Development
-- 		Testing
-- 			Operations
+- Development
+- Testing
+- Operations
 			
 - Waterfall vs Agile methology
 - ---------------------------------
