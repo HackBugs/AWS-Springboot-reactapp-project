@@ -123,37 +123,36 @@
 - ### Great! Since you have already installed JDK, Maven, Node.js, and Gradle, and your project is located at - `C:\my-website\ReactJS-Spring-Boot-CRUD-Full-Stack-App-master`, here's a detailed step-by-step guide to run the Spring Boot backend and React frontend.
  
 - ### Step-by-Step Guide
-- 
 - #### 1. Open Command Prompt
  
 - Press `Win + R`, type `cmd`, and hit Enter to open the Command Prompt.
  
 - #### 2. Navigate to the Project Directory
  
-- ```sh
+ ```sh
 - cd C:\my-website\ReactJS-Spring-Boot-CRUD-Full-Stack-App-master
-- ```
+```
 
 - #### 3. Run the Spring Boot Backend
  
 - 1. **Navigate to the backend directory**:
 -    - Assuming the backend files are in a folder named `backend` or something similar inside the main project directory.
     
--    ```sh
--    cd backend  # Adjust according to your project structure
-    ```
+   ```sh
+    cd backend  # Adjust according to your project structure
+ ```
  
 - 2. **Build and run the Spring Boot application**:
 -    - For Maven:
 -      ```sh
--      mvn clean install
--      mvn spring-boot:run
+     mvn clean install
+     mvn spring-boot:run
       ```
  
 -    - For Gradle:
--      ```sh
--      gradlew build
--      gradlew bootRun
+      ```sh
+      gradlew build
+      gradlew bootRun
       ```
 
 - 3. **Check if the Spring Boot application is running**:
@@ -166,18 +165,18 @@
 - 2. **Navigate to the frontend directory**:
 -    - Assuming the frontend files are in a folder named `frontend` or something similar inside the main project directory.
     
--    ```sh
--    cd C:\my-website\ReactJS-Spring-Boot-CRUD-Full-Stack-App-master\frontend  # Adjust according to your project structure
+    ```sh
+    cd C:\my-website\ReactJS-Spring-Boot-CRUD-Full-Stack-App-master\frontend  # Adjust according to your project structure
     ```
 
 - 3. **Install dependencies**:
--    ```sh
--    npm install
+    ```sh
+     npm install
     ```
  
 - 4. **Start the React application**:
--    ```sh
--    npm start
+    ```sh
+    npm start
     ``` 
 - 5. **Check if the React application is running**:
 -    - Open a web browser and go to `http://localhost:3000`. You should see the React application running.
@@ -191,8 +190,8 @@
 - ### Summary of Commands
 
 - 1. **Navigate to the project directory**:
--    ```sh
--    cd C:\my-website\ReactJS-Spring-Boot-CRUD-Full-Stack-App-master
+    ```sh
+    cd C:\my-website\ReactJS-Spring-Boot-CRUD-Full-Stack-App-master
     ```
  
 - 2. **Run Spring Boot backend**:
@@ -210,10 +209,10 @@
       ```
  
 - 3. **Run React frontend**:
--    ```sh
--    cd C:\my-website\ReactJS-Spring-Boot-CRUD-Full-Stack-App-master\frontend
--    npm install
--    npm start
+    ```sh
+    cd C:\my-website\ReactJS-Spring-Boot-CRUD-Full-Stack-App-master\frontend
+    npm install
+    npm start
     ```
  
 - By following these steps, you should be able to run and check your Spring Boot backend and React frontend project on your PC.
