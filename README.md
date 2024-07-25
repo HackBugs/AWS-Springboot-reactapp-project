@@ -76,20 +76,22 @@
 - SSH - Secure shell
 
 - install packages on linux distro ----
-- Debain based
-- --------------
-- Ubuntu
-- debain
-- mint
-- -- this all use apt and apt-get ---------
-
+ Debain based
+--------------
+```sh
+This all use apt and apt-get
+ Ubuntu
+ debain
+ mint
+```
 - Red Hat Based
 - -----------------
-- Rhel
-- centos
-- fedora
-- --- this all use yum ----------
- 
+```
+This all use yum
+ Rhel
+ centos
+ fedora
+```
 - -----------------------------------------------------------------------------
 ### Software spring boot suite 4
 
